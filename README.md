@@ -52,3 +52,9 @@ Durante a elaboração das soluções procurei priorizar:
 Durante o desenvolvimento procurei estruturar a solução seguindo boas práticas de Infraestrutura como Código (IaC), automação, troubleshooting e documentação.
 
 Sempre que possível priorizei idempotência, reutilização de código, clareza e facilidade de manutenção, simulando a organização normalmente utilizada em ambientes produtivos.
+
+## Observação
+
+Durante a elaboração deste desafio utilizei ferramentas de Inteligência Artificial como apoio para pesquisa, revisão de documentação e validação de algumas abordagens técnicas, conforme permitido pelo enunciado.
+
+Toda a organização do projeto, adaptação das soluções, revisão final e entendimento técnico do conteúdo foram realizados por mim.
