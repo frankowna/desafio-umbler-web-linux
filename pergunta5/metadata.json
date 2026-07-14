@@ -1,0 +1,9 @@
+{
+  "name": "configr-wordpress",
+  "version": "1.0.0",
+  "author": "José Franklin da Silva Santiago",
+  "summary": "Puppet module for provisioning shared hosting environments with Nginx, LiteSpeed/LSPHP and WordPress.",
+  "license": "MIT",
+  "source": "https://github.com/frankowna/desafio-configr",
+  "dependencies": []
+}
