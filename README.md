@@ -59,10 +59,4 @@ Durante a elaboração deste desafio utilizei ferramentas de Inteligência Artif
 
 As decisões técnicas, adaptações, organização do projeto e revisão final foram realizadas por mim, utilizando a IA apenas como ferramenta de apoio.
 
-![Linux](https://img.shields.io/badge/Linux-Bash-blue)
-
-![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
-
-![Puppet](https://img.shields.io/badge/Puppet-IaC-orange)
-
-![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black)
+![Linux](https://img.shields.io/badge/Linux-Bash-blue) ![Docker](https://img.shields.io/badge/Docker-Enabled-blue) ![Puppet](https://img.shields.io/badge/Puppet-IaC-orange) ![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black)
