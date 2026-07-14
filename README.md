@@ -58,3 +58,11 @@ Sempre que possível priorizei idempotência, reutilização de código, clareza
 Durante a elaboração deste desafio utilizei ferramentas de Inteligência Artificial como apoio para pesquisa, revisão de documentação e validação de algumas abordagens técnicas, conforme permitido pelo enunciado.
 
 Toda a organização do projeto, adaptação das soluções, revisão final e entendimento técnico do conteúdo foram realizados por mim.
+
+![Linux](https://img.shields.io/badge/Linux-Bash-blue)
+
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+
+![Puppet](https://img.shields.io/badge/Puppet-IaC-orange)
+
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black)
