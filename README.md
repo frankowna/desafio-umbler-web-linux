@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-Este repositório contém a resolução do desafio técnico para a vaga de **Analista de Infraestrutura Web Linux** da Configr.
+Este repositório apresenta minha solução para o segundo desafio técnico da vaga de **Analista de Infraestrutura Web Linux** da Umbler.
 
 As soluções foram desenvolvidas considerando boas práticas de administração Linux, troubleshooting, automação, infraestrutura como código (IaC), segurança, documentação e manutenibilidade.
 
