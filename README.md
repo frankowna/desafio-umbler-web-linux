@@ -25,7 +25,7 @@ As soluções foram desenvolvidas considerando boas práticas de administração
 ## Tecnologias utilizadas
 
 - Linux
-- Shell Script
+- Bash
 - Nginx
 - LiteSpeed / LSPHP
 - Docker
@@ -55,9 +55,9 @@ Sempre que possível priorizei idempotência, reutilização de código, clareza
 
 ## Observação
 
-Durante a elaboração deste desafio utilizei ferramentas de Inteligência Artificial como apoio para pesquisa, revisão de documentação e validação de algumas abordagens técnicas, conforme permitido pelo enunciado.
+Durante a elaboração deste desafio utilizei ferramentas de Inteligência Artificial como apoio para pesquisa, revisão de documentação e validação de algumas abordagens técnicas, conforme permitido pelo enunciado do desafio.
 
-Toda a organização do projeto, adaptação das soluções, revisão final e entendimento técnico do conteúdo foram realizados por mim.
+As decisões técnicas, adaptações, organização do projeto e revisão final foram realizadas por mim, utilizando a IA apenas como ferramenta de apoio.
 
 ![Linux](https://img.shields.io/badge/Linux-Bash-blue)
 
